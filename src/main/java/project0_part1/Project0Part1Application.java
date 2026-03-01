@@ -1,4 +1,4 @@
-package edu.in.project0_part1;
+package project0_part1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
